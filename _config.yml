@@ -63,10 +63,10 @@ title: "EEB Software Workshop (Data Analysis / Viz in R, Command Line (for Genom
   incubator_lesson_site: "https://carpentries-incubator.github.io/R-ecology-lesson-alternative/"
 #
 # For an Incubator workshop, uncomment the line below and add the URL of your pre-workshop survey
-#  incubator_pre_survey: ""
+#  incubator_pre_survey:
 #
 # For an Incubator workshop, uncomment the line below and add the URL of your post-workshop survey
-#  incubator_post_survey: "put the URL of your post-workshop survey here"
+#  incubator_post_survey:
 #
 #------------------------------------------------------------
 
